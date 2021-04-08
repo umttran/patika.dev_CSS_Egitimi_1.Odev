@@ -1,0 +1,69 @@
+/* Body Stilleri */
+.center{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    margin:0;
+    padding:0;
+    min-width: 1140px;
+}
+
+/* Header Stilleri */
+.headerStyle{
+    background-color: #fed049;
+    padding: 20px 20px;
+}
+.nav1{
+    margin: 10px;
+}
+
+
+/* index.html -> Paragraf içeren div */
+.divParagraf{
+    background-color: #d8ebe4;
+    padding: 25px 10%;
+}
+.p_div{
+    margin: 30px 150px;
+}
+
+/* index.html -> İçerikler Bölümü */
+.divContent{
+    background-color: #d8ebe4;
+    padding: 30px;
+    margin-bottom: 80px;
+}
+ul {
+    list-style-position: inside;
+    margin-right: 40px;
+}
+.listItem{
+    padding: 10px;
+}
+
+/* Footer Stilleri */
+.alt-konteyner{
+    background-color: #fff;
+    padding-top: 150px;
+}
+
+/* Dizi ve Film footer stili */
+.fotColor{
+    color:#fff;
+    background-color: #007580;
+}
+.footer-link{
+    color: #fff;
+}
+
+/* Bullet point olmayan listeler için */
+.no-bullets {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+
+/* Siteye eklenen görsellerin düzenlenmesi */
+img {
+    height: 700px;
+}
